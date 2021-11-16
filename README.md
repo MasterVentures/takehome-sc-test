@@ -17,9 +17,9 @@ You will have **2 days** to complete the assignment. Once you have completed you
 #### Once you have completed your solution, PLEASE FOLLOW THE INSTRUCTIONS BELOW:
 ---
 
-- Clone this Repo.
+- Clone this Repo, please do not Fork
 - Create your own public repo and push the code up to your `new public repository`.
-- Make your changes per this tests requirements and push your changes to your forked repo
+- Make your changes per this tests requirements and push your changes to your new repo.
 - Once you are done with the test. Please make sure:
   - All changes have been pushed to your repo.
   - Please reply via email with a link to the forked github repository and instructions on how to install / run the application.
