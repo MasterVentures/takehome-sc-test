@@ -22,7 +22,7 @@ You will have **2 days** to complete the assignment. Once you have completed you
 - Make your changes per this tests requirements and push your changes to your new repo.
 - Once you are done with the test. Please make sure:
   - All changes have been pushed to your repo.
-  - Please reply via email with a link to the forked github repository and instructions on how to install / run the application.
+  - Please reply via email with a link to the new github repository and instructions on how to install / run the application.
 - Update this README.md with the instructions to test your solution, create a section titled: TEST-INSTRUCTIONS
 
 ## Goal of the contract
